@@ -63,7 +63,7 @@ Get started in just a minute!
     Or use a local server for better performance:
 ```bash
     npx live-server
-``
+```
 
 ## 🎯 Usage
 
